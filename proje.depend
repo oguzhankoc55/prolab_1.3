@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1609602977 source:c:\users\oðuzhan koç\onedrive\masaüstü\proje\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1609688967 source:c:\users\arslan\desktop\codlamalar\odevler\prolab1.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
